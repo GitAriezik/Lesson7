@@ -1,0 +1,20 @@
+//
+//  LessonSevenPrefixHeader.pch
+//  Lesson4
+//
+//  Created by Vasily on 03.05.15.
+//  Copyright (c) 2015 Vasily Filippov. All rights reserved.
+//
+
+
+
+#ifndef Lesson4_LessonSevenPrefixHeader_pch
+#define Lesson4_LessonSevenPrefixHeader_pch
+
+#import "NSNotificationCenter+NotificationsOptions.h"
+#import "AppConstants.h"
+
+
+
+
+#endif
